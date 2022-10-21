@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/kenny/AndroidStudioProjects/Lightsout2/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/kenny/AndroidStudioProjects/Lightsout2/app/src/main/res/layout/activity_game_over.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kenny/AndroidStudioProjects/Lightsout2/app/src/main/res/layout/activity_main.xml" value="0.21" />
       </map>
     </option>
   </component>
